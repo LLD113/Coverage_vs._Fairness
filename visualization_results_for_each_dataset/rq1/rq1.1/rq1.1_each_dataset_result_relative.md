@@ -16,7 +16,7 @@
 
 #### rq1.1_relative_german_sex
 
-![rq1.1_relative_german_sex](/Users/linlidan/Desktop/Coverage_vs._Fairness/visualization_results_for_each_dataset/rq1/rq1.1/each_dataset_result_relative/rq1.1_relative_german_sex.png)
+![rq1.1_relative_german_sex](each_dataset_result_relative/rq1.1_relative_german_sex.png)
 
 #### rq1.1_relative_compas_sex
 
